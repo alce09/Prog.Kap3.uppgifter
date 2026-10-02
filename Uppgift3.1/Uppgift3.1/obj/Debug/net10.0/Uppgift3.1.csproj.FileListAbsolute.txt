@@ -1,0 +1,14 @@
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\bin\Debug\net10.0\Uppgift3.1.exe
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\bin\Debug\net10.0\Uppgift3.1.deps.json
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\bin\Debug\net10.0\Uppgift3.1.runtimeconfig.json
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\bin\Debug\net10.0\Uppgift3.1.dll
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\bin\Debug\net10.0\Uppgift3.1.pdb
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\obj\Debug\net10.0\Uppgift3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\obj\Debug\net10.0\Uppgift3.1.AssemblyInfoInputs.cache
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\obj\Debug\net10.0\Uppgift3.1.AssemblyInfo.cs
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\obj\Debug\net10.0\Uppgift3.1.csproj.CoreCompileInputs.cache
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\obj\Debug\net10.0\Uppgift3.1.dll
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\obj\Debug\net10.0\refint\Uppgift3.1.dll
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\obj\Debug\net10.0\Uppgift3.1.pdb
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\obj\Debug\net10.0\Uppgift3.1.genruntimeconfig.cache
+C:\Users\alce09001\Documents\Programmering\Prog.Kap3.uppgifter\Prog.Kap3.uppgifter\Uppgift3.1\Uppgift3.1\obj\Debug\net10.0\ref\Uppgift3.1.dll
